@@ -2,7 +2,7 @@
 
 This is polybar I have designed for LeftWM. 
 
-I am working on ArcoLinux, the one that has helped me undestand and use Arch Linux. 
+Since 2020, I am working on ArcoLinux, the one platform that has helped me understand and use Linux. 
 
 Special thanks to Erik Dubois.
 

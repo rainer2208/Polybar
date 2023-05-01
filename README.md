@@ -6,4 +6,4 @@ I am working on ArcoLinux, the one that has helped me undestand and use Arch Lin
 
 Special thanks to Erik Dubois.
 
-![Screenshot](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot-Polybar](https://user-images.githubusercontent.com/23400899/235455059-48c35721-5cd2-4a06-bee8-fa08391bf5a1.png)
